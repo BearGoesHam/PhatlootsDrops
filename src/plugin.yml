@@ -1,0 +1,9 @@
+name: PhatLootDrops
+author: BearGoesHam
+version: 1.0
+main: hu.shaogun.drops.Main
+description: Custom SupplyDrop plugin for PhatLoots
+depend: [PhatLoots]
+commands:
+    lootdrop:
+        description: allows users to drop supplies

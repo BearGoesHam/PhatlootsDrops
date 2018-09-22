@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhatlootsDrops:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="PhatlootsDrops.jar">
+      <element id="module-output" name="PhatlootsDrops" />
+    </root>
+  </artifact>
+</component>
